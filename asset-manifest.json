@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/React_SocialNeteork/static/css/main.d5c5f5d7.chunk.css",
-    "main.js": "/React_SocialNeteork/static/js/main.79e3eb89.chunk.js",
-    "main.js.map": "/React_SocialNeteork/static/js/main.79e3eb89.chunk.js.map",
+    "main.css": "/React_SocialNeteork/static/css/main.dbefcb9f.chunk.css",
+    "main.js": "/React_SocialNeteork/static/js/main.3bd96c30.chunk.js",
+    "main.js.map": "/React_SocialNeteork/static/js/main.3bd96c30.chunk.js.map",
     "runtime-main.js": "/React_SocialNeteork/static/js/runtime-main.4ecb0d39.js",
     "runtime-main.js.map": "/React_SocialNeteork/static/js/runtime-main.4ecb0d39.js.map",
-    "static/js/2.f727172e.chunk.js": "/React_SocialNeteork/static/js/2.f727172e.chunk.js",
-    "static/js/2.f727172e.chunk.js.map": "/React_SocialNeteork/static/js/2.f727172e.chunk.js.map",
+    "static/js/2.efa65d52.chunk.js": "/React_SocialNeteork/static/js/2.efa65d52.chunk.js",
+    "static/js/2.efa65d52.chunk.js.map": "/React_SocialNeteork/static/js/2.efa65d52.chunk.js.map",
     "index.html": "/React_SocialNeteork/index.html",
-    "precache-manifest.6128b199821e832a6575ec8a6b6f9d9c.js": "/React_SocialNeteork/precache-manifest.6128b199821e832a6575ec8a6b6f9d9c.js",
+    "precache-manifest.4eb217e8162a20c5e48e85cd09b2237c.js": "/React_SocialNeteork/precache-manifest.4eb217e8162a20c5e48e85cd09b2237c.js",
     "service-worker.js": "/React_SocialNeteork/service-worker.js",
-    "static/css/main.d5c5f5d7.chunk.css.map": "/React_SocialNeteork/static/css/main.d5c5f5d7.chunk.css.map",
-    "static/js/2.f727172e.chunk.js.LICENSE.txt": "/React_SocialNeteork/static/js/2.f727172e.chunk.js.LICENSE.txt",
+    "static/css/main.dbefcb9f.chunk.css.map": "/React_SocialNeteork/static/css/main.dbefcb9f.chunk.css.map",
+    "static/js/2.efa65d52.chunk.js.LICENSE.txt": "/React_SocialNeteork/static/js/2.efa65d52.chunk.js.LICENSE.txt",
     "static/media/preloader.svg": "/React_SocialNeteork/static/media/preloader.af6fc50c.svg",
     "static/media/user.png": "/React_SocialNeteork/static/media/user.584ed1c6.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4ecb0d39.js",
-    "static/js/2.f727172e.chunk.js",
-    "static/css/main.d5c5f5d7.chunk.css",
-    "static/js/main.79e3eb89.chunk.js"
+    "static/js/2.efa65d52.chunk.js",
+    "static/css/main.dbefcb9f.chunk.css",
+    "static/js/main.3bd96c30.chunk.js"
   ]
 }
